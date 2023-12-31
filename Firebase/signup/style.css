@@ -1,0 +1,12 @@
+.main{
+    background-color: blueviolet;
+}
+img{
+  
+    width: 53px;
+    height: 28px;
+    margin-right: 5px;
+  }
+  h6{
+    cursor: context-menu;
+  }
